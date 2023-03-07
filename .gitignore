@@ -1,0 +1,9 @@
+## twitter api keys
+keys.py
+
+## python exemptions
+__pycache__/*
+
+## poetry exemptions
+.venv/
+learning/python/poetry.lock

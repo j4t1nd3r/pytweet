@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python twitter script"
+version = "0.1.0"
+description = "a script for tweeting using twitter rest api"
+authors = ["j4t1nd3r <j4t1nd3r@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tweepy = "^4.12.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
